@@ -1,0 +1,19 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  asteroid.cpp
+  bullet.cpp
+  gameobject.cpp
+  gamestate.cpp
+  level.cpp
+  main.cpp
+  player.cpp
+C:\Users\tasos\OneDrive\Υπολογιστής\CppGame\Asteroids\Stage1\player.cpp(24,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tasos\OneDrive\Υπολογιστής\CppGame\Asteroids\Stage1\player.cpp(37,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tasos\OneDrive\Υπολογιστής\CppGame\Asteroids\Stage1\player.cpp(53,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tasos\OneDrive\Υπολογιστής\CppGame\Asteroids\Stage1\player.cpp(54,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  util.h
+  Generating code
+  358 of 361 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Stage1.vcxproj -> C:\Users\tasos\OneDrive\Υπολογιστής\CppGame\Asteroids\bin\Asteroids.exe
